@@ -1,0 +1,28 @@
+_repo: Angelina-novela-mexicana-_16082
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Delgado, Rafael
+    birthdate: 1853
+    deathdate: 1914
+    gutenberg_agent_id: '6476'
+    url: http://www.gutenberg.org/2009/agents/6476
+description: ''
+gutenberg_issued: '2005-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16082'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Man-woman relationships -- Fiction'
+title: 'Angelina
+
+  (novela mexicana)'
+url: http://www.gutenberg.org/ebooks/16082
